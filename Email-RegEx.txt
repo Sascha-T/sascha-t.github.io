@@ -1,0 +1,1 @@
+[abcdefghijklmnopqrstufwxyz"§.$%&/()=?ß-]{1,100}@[abcdefghijklmnopqrstufwxyz"§.$%&/()=?ß-]{1,100}\.([abcdefghijklmnopqrstufwxyz"§$%&/()=?ß-]{2}|[abcdefghijklmnopqrstufwxyz"§$.%&/()=?ß-]{3})
